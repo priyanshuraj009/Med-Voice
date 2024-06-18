@@ -1,11 +1,14 @@
 Speech Recognition Application with Tkinter
 This project is a speech recognition application built in Python using the Tkinter library for the graphical user interface (GUI). It allows users to record prescriptions and patient notes through speech-to-text conversion, manage patient details, view the final record, and share the recorded data via email or SMS.
 
+
 Features
 Speech Recognition: Records prescriptions and patient notes using the microphone.
 Patient Details: Saves and displays patient information (ID, name, age, gender, contact number).
 Final Record: Provides a comprehensive view of patient details, prescriptions, and notes.
-Sharing Options: Allows sharing recorded data via email (using Mailgun API) and SMS (using Twilio).
+Sh
+aring Options: Allows sharing recorded data via email (using Mailgun API) and SMS (using Twilio).
+
 Requirements
 Python 3.x
 tkinter
@@ -14,7 +17,9 @@ PIL (Python Imaging Library)
 requests
 twilio (if using SMS feature)
 Installation
+
 Clone the repository:
+
 
 bash
 Copy code
