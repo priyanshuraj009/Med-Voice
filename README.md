@@ -76,5 +76,5 @@ Contributions are welcome! For major changes, please open an issue first to disc
 5. **Open a pull request.**
 
 ## Screenshots
-![Dashboard Screenshot](output/Screenshot - Share.png)
-![Result Screenshot](output/Screenshot Of Dashboard.png)
+![Share Screenshot](output/Screenshot-Share.png)
+![Dashboard Screenshot](output/Screenshot-Of-Dashboard.png)
