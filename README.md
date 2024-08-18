@@ -74,3 +74,7 @@ Contributions are welcome! For major changes, please open an issue first to disc
     ```
 
 5. **Open a pull request.**
+
+## Screenshots
+![Dashboard Screenshot](output/Screenshot-Share.png)
+![Result Screenshot](assets/images/result-screenshot.png)
