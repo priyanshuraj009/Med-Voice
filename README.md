@@ -1,4 +1,4 @@
-# MED-VOICE
+# Med-Voice
 
 **MED-VOICE** is a Python application utilizing Tkinter for the GUI and speech recognition for converting spoken prescriptions and patient notes into text. It manages patient details and supports data sharing via email and SMS.
 
